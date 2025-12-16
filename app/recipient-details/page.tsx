@@ -56,7 +56,7 @@ export default function RecipientDetails() {
       return;
     }
 
-    router.push("/");
+    router.push("/recipient-details-2");
   };
 
   return (
